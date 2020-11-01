@@ -1,0 +1,2 @@
+
+print("Area subpackage init")
