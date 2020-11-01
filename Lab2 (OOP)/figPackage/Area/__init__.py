@@ -1,2 +1,0 @@
-
-print("Area subpackage init")
